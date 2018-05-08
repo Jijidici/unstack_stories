@@ -4,7 +4,7 @@ title = "Unstack Stories"
 theme = "nederburg"
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = "unstackstories.disqus.com"
+disqusShortname = "unstackstories"
 # Enable Google Analytics by entering your tracking code
 #googleAnalytics = ""
 preserveTaxonomyNames = true
