@@ -1,7 +1,7 @@
 ---
 title: "Fire Emblem : Path of Radiance"
 date: 2018-05-08T13:25:57+02:00
-draft: true
+draft: false
 image: "img/fire_emblem_path_of_radiance/cover.jpg"
 showonlyimage: true
 categories: [ "NGC"]
