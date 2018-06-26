@@ -4,7 +4,7 @@ date: 2018-05-08T13:25:57+02:00
 draft: false
 image: "img/fire_emblem_path_of_radiance/cover.jpg"
 showonlyimage: true
-categories: [ "NGC"]
+categories: [ "ngc"]
 tags: ["Tactical", "RPG", "Nintendo", "2000s"]
 weight: 0
 ---
