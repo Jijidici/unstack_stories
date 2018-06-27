@@ -9,7 +9,7 @@ tags: ["Beat'em All", "Suda51", "2000s"]
 weight: 0
 ---
 
-> Voici mon intro. C'est le bordel
+> Voici mon intro. C'est le bordel, on te dit
 
 ### __Fiche Technique__
 
