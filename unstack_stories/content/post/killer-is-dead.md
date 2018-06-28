@@ -11,6 +11,8 @@ weight: 0
 
 > Attaquer l'oeuvre de Suda51, sans commencer par Killer7 ou No More Heroes, c'est ce dans quoi je me suis engagé, sans le savoir, en lançant Killer is Dead. En lieu et place d'un simple Beat Them All, j'ai trouvé jeu un peu fou, un peu cassé, et débordant d'une ferveur adolescente.
 
+<!--more-->
+
 ### __Fiche Technique__
 
 __Genre :__ Beat Them All / Role-playing Gigolo
@@ -49,36 +51,24 @@ Car, qui dit entreprise de tueurs à gage, dit têtes à faire tomber. Le jeu s'
 
 (Image d'un combat contre des wires)
 
+Chaque niveau est prétexte à visiter un archétype de récit de la Pop Culture. On explore ainsi le labyrinthe mental d'une Alice au Pays des Merveilles monstrueuses. On parcourt les ruelles sombres d'un film noir. On se bat au sabre au clair de lune sous des cerisiers en fleurs. Malgré quelques réutilisation de décors,  Le jeu est généreux sur ses environnements et ses situations, ce qui compense un bestiaire vite limité
+
+(Images cinématique Yakuza Tigre dans temple zen)
+
+Car c'est souvent les mêmes quatres Wires que nous auront à affronter. Et même si leur look change, leur pattern d'attaque reste souvent identique. Les bosses, eux, viendront casser cette monotonie, mais ils ne sont clairement pas tous au même niveau d'originalité et de profondeur. Pour dézinguer tout ce beau monde nous serons armé de notre katana et de notre bras bionique. Frapper avec le sabre permet d'accumuler du sang, que nous pouvons consommer comme projectile  pour notre bras robotisé, ou pour effectuer une exécution. Notre personnage dispose aussi d'un contre et d'une esquive qui, déclenchée au dernier moment, permet d'arrêter le temps et de contre-attaquais violemment contre sa cible (à l'instar d'un Witch Time dans Bayonetta). Avec ces éléments, le système de combat tient bien debout. Les coups ont beaucoup de pêche, les prises de risque sont bien récompensées, et le sang vous sera très vite indispensable. De plus un petit arbre de compétence vient étoffer tout ça avec de nouvelles compétences actives comme passives, et on sent une véritable montée en puissance.
+Enfin on la sent si on arrive à comprendre le système d'évolution et de points d'expérience... 
+
+(Images d'une série d'attaque pdt le witch time).
+
+Car le jeu montre très vite ses limites. Le système de jeu n'est pas très bien expliqué. Les combats sont sympas mais sont vite redondants. Les cinématiques, malgré une vrai mise en scène, se cognent au limitation du moteur 3D, et leurs chargement viennent casser le rythme. Ce qui ressort de ce jeu est qu'il a eu trop d'ambition par rapport à son budget. C'est la vraie création d'un auteur qui a poussé sa vision, mais n'arrive pas à la qualité escomptée. On a de vrais moments qui fonctionnent (souvent pendant les combats de bosses), mais ils sont noyés dans une marée de combats tièdes et de déambulations plates.
+
+(Images de Mika qui ressuscite Mondo).
+
+Conclusion dire que c'est quand même bien et original, et qu'au final le jeu est à son image. Les univers nanardesque qu'il décrit vont bien avec sa réalisation un peu cassée, et sa volonté de toujours vouloir être cool et classe lui donne un côté adolescent impertinent. Ça présage du bon pour les No More Heroes qu'il me reste à faire.
 
 
-- résumé histoire et gameplay
++ dire que c'est 2nd degré
 
-- Premier jeu de Suda Goichi que je fais. J'avais entendu parlé que ses jeux étaient "bizarres"
++ parler du côté gigolo et des missions annexes qui repompes les missions standard en mode scoring (que j'ai pas fait)
 
-- Le système de combat repose un combo katana/bras bionique. Le katana permet de faire des coup simple afin d'accumuler le sang venant des adversaires. Ce sang peut ensuite être consommé pour tirer sur les ennemies avec le bras droit de Mondo, faire une exécution sur un ennemie préalablement affaibli, ou récupérer de la vie. Il existe aussi un coup de point pour casser la garde adverse, et une esquive qui, exécutée juste avant un coup, déclenche un ralentissement du temps permettant d'assainer de coup de le monstre qui a essayer de nous toucher. Toutes ces compétences peuvent être améliorer au fur et à mesure des niveaux dans un petit arbre de compétence. et on attaque là un problème important du système de jeu : rien n'est clair. On accumule constamment des diamants et des roses en tuant des ennemies qui ont un rapport avec la jauge de vie et de sang, mais il faut un moment pour comprendre que cette "XP" permet tout simplement d'augmenter notre barre de vie ou notre réserve de sang. Pareil pour les compétences : on ne se rend pasbien compte, dû à des textes trop vagues, qu'une compétence est VRAIMENT forte, et à prendre ! Or sans "respec" possible, on peut passer un bon tiers du jeu sans oser prendre cette compétence qui paraît nulle, alors qu'elle semble augmenter grandement l'efficacité du sabre.
-
-- Des combats péchus, avec un gameplay évoluant au fil du temps (via un petit arbre de compétence). Les impacts sont bien rendu, les combos esquive/garde sont jouissifs. Mais il faut reconnaitre que tout ça tourne souvent au répétitif quand les vagues de monnstres s'enchaîne, ou quand on se retrouve contre un boss qui nous oblige à faire uniquement des combos/esquives pour le toucher.
-
-- Déplacement trop rapide dans les environnements clos et animations parfois flottantes.
-
-- Dur de revenir à un jeu sans autofocus sur la caméra ^^
-
-- Univers singulier, avec une histoire raconté via des séquences très cinématographique.
-
-- Jeu découpé en niveau, chacun demander d'exécuter une personne, souvent assassin lui même (d'où le Killer is Dead). On commence d'ailleurs par aller chasser l'ancien assassin de l'agence, celui que nous avons remplacé.
-
-- On sent une véritable volonté d'auteur, avec des réflections sur l'amour et le pouvoir
-
-- sentiment d'une histoire très adolescente, balançant des questions existentielles sur des poses iconiques
-
-- Style visuel qui lui aussi contribue à cette ambiance étrange et décalée. Des chara-design vraiment osé, passant du kitch au grotesque, frisant parfois l'horreur
-
-- Un final grandiose, avec une envergure suprenante et une mise en scène forte. Une conclusion complètement dans la trempe de ce style d'univers ado désabusé.
-
-(montré quelques bosses)
-
-- pas fait les missions de dragues parce que c'est pas ma cam. On sent qu'il y a autres choses après avoir fini le jeu, car des compétences sont encore bloquées. Mais le jeu ne m'a pas assez passionné pour que je continue.
-
-- On sent que le jeu a été plus ambitieux que son budget ne lui a permit, ce qui ne lui a pas permis de faire des cinématiques à l'émotion digne d'un triple AAA de notre époque. Mais on voit où les développeur ont voulu en venir. Et c'est quand même une prise de risque de faire autant de cinématique cinématographiqueavec un Unreal Engine 3 au début de son invasion au Japon, et ce avec un rendu non-photoréaliste
-
-- Un jeu de son temps, très compartimenté, plein de QTE et pas seamless du tout
++  parler des QTE et dire que c'est un jeu de son temps qui a un peu vieilli au niveau de ses mécaniques
