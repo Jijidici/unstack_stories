@@ -5,15 +5,15 @@ draft: true
 image: "img/killer_is_dead/cover.jpg"
 showonlyimage: true
 categories: [ "pc"]
-tags: ["Beat'em All", "Suda51", "2000s"]
+tags: ["Beat Them All", "Suda51", "2000s"]
 weight: 0
 ---
 
-> Voici mon intro. C'est le bordel, on te dit
+> Attaquer l'oeuvre de Suda51, sans commencer par Killer7 ou No More Heroes, c'est ce dans quoi je me suis engagé, sans le savoir, en lançant Killer is Dead. En lieu et place d'un simple Beat Them All, j'ai trouvé jeu un peu fou, un peu cassé, et débordant d'une ferveur adolescente.
 
 ### __Fiche Technique__
 
-__Genre :__ Beat'em All / Role-playing Gigolo
+__Genre :__ Beat Them All / Role-playing Gigolo
 
 __Titre original :__ Killer Is Dead *(キラー イズ デッド)*
 
@@ -35,11 +35,21 @@ __Jeux du même genre :__ *Bayonetta 1 & 2* __(Wii U)__.
 
 __Attente :__ Neutre teintée de septicisme.
 
-__Notes :__ Fait en difficulté Difficile. Je n'ai pas fait une grande partie des missions annexes par manque d'intérêt.
+__Notes :__ Fait en difficulté "Difficile". Je n'ai pas fait une grande partie des missions annexes par manque d'intérêt.
 
 ---
 
 ### __Unstack Story__
+
+S'il y a bien quelque chose sur lequel on ne nous a pas menti, c'est sur l'univers délirant des jeux Grasshopper. Dans Killer Is Dead, nous incarnons Mondo Zappa, un jeune homme amnésique, se battant avec son katana buveur de sang et son bras-bionique-machine-gun. Avec son allure de "Salary Man", il travaille en tant que tueur à gage pour Bryan Execution Firm (notez le nom subtile), dirigé par un quarantenaire cyborg bedonnant. Au casting s'ajoute la secrétaire de B.E.F., Vivienne, motarde sulfureuses aux milles bras, et l'assistante de Mondo, Mika, jeune lycéenne surexcitée. Et si on y ajoute les nombreux clients et contrats de Mondo et sa clique, on arrive à une galerie de personnages toujours plus excentrique les uns que les autres.
+
+(Images du casting principale : croper ça https://www.gamepressure.com/wallpaper.asp?ID=47799)
+
+Car, qui dit entreprise de tueurs à gage, dit têtes à faire tomber. Le jeu s'articule ainsi en une douzaine de missions d'exécution, chacune commençant par une petite cinématique en 2D qui nous montre pourquoi notre cible doit être tué. Comme le titre du jeu le sous-entend, toutes les personnes que nous tueront sont elles aussi des assassins. Mais avant de les abattre dans des combats de boss de fin de mission, nous devront nous débarasser de hordes de Wires, créatures humanoïdes nées d'une énergie sombre venant de la Lune, dans des niveaux variés mais, bien souvent, couloirs.
+
+(Image d'un combat contre des wires)
+
+
 
 - résumé histoire et gameplay
 
