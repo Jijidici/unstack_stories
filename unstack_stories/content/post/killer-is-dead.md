@@ -45,7 +45,7 @@ S'il y a bien quelque chose sur lequel on ne nous a pas menti, c'est sur l'unive
 
 (Images du casting principale : croper ça https://www.gamepressure.com/wallpaper.asp?ID=47799)
 
-Car, qui dit entreprise de tueurs à gage, dit têtes à faire tomber. Le jeu s'articule ainsi en une douzaine de missions d'exécution, chacune commençant par une petite cinématique en 2D qui nous montre pourquoi notre cible doit être tué. Comme le titre du jeu le sous-entend, toutes les personnes que nous tueront sont elles aussi des assassins. Mais avant de les abattre dans des combats de boss de fin de mission, nous devront nous débarasser de hordes de Wires, créatures humanoïdes nées d'une énergie sombre venant de la Lune, dans des niveaux variés mais, bien souvent, couloirs.
+Car, qui dit entreprise de tueurs à gage, dit têtes à faire tomber. Le jeu s'articule ainsi en une douzaine de missions d'exécution, chacune commençant par une petite cinématique en 2D qui nous montre pourquoi notre cible doit être tué. Comme le titre du jeu le sous-entend, toutes les personnes que nous tueront sont elles aussi des assassins. Mais avant de les abattre dans des combats de boss de fin de mission, nous devront nous débarasser de hordes de Wires, créatures humanoïdes nées d'une énergie lunaire maléfique, dans des niveaux-couloirs aux allures de dédales.
 
 (Image d'un combat contre des wires)
 
