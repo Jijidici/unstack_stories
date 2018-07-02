@@ -1,7 +1,7 @@
 ---
 title: "Killer Is Dead"
 date: 2018-06-26T15:48:52+02:00
-draft: true
+draft: false
 image: "img/killer_is_dead/cover.jpg"
 showonlyimage: true
 categories: [ "pc"]
