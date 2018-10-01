@@ -1,7 +1,7 @@
 ---
 title: "Hollow Knight"
-date: 2018-07-02T13:45:14+02:00
-draft: true
+date: 2018-10-01T13:45:14+02:00
+draft: false
 image: "img/hollow_knight/cover.jpg"
 showonlyimage: true
 categories: [ "switch"]
