@@ -1,7 +1,7 @@
 ---
 title: "Octopath Traveler"
 date: 2018-10-30T13:49:00+02:00
-draft: true
+draft: false
 image: "img/octopath_traveler/cover.jpg"
 showonlyimage: true
 categories: [ "switch"]
