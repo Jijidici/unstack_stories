@@ -1,7 +1,7 @@
 ---
 title: "Dead Cells"
 date: 2018-11-03T17:25:07+01:00
-draft: true,
+draft: false,
 image: "img/dead_cells/cover.jpg"
 showonlyimage: true
 categories: [ "switch"]
