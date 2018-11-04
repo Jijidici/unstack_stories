@@ -15,7 +15,7 @@ Même si octobre se finit, l'été continue avec le fer de lance de Square Enix 
 </p>
 
 ### __Fiche Technique__
-- __Genre :__ Octopath Traveler / Macro-screenshoteur de pixels
+- __Genre :__ J-RPG / Macro-screenshoteur de pixels
 - __Titre original :__ Octopath Traveler
 - __Date de sortie :__ __[Switch]__ 13/07/2018
 - __Développeur :__ Acquire / Square Enix
