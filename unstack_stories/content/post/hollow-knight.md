@@ -21,7 +21,7 @@ Alors que vaut ce Metroidvania au monde des insectes ? A-t-il de quoi bouleverse
 - __Date de sortie :__ __[PC]__ 24/02/2017 - __[Switch]__ 12/06/2018
 - __Développeur :__ Team Cherry
 - __Editeur :__ Team Cherry
-- __Plateforme :__ PC / Nintendo Switch
+- __Plateforme :__ PC / Switch
 - __Directeur :__ Ari Gibson & William Pellen
 
 ### __Contexte de jeu__

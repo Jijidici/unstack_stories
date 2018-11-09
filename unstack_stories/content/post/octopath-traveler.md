@@ -5,7 +5,7 @@ draft: false
 image: "img/octopath_traveler/cover.jpg"
 showonlyimage: true
 categories: [ "switch"]
-tags: ["J-RPG", "2010s"]
+tags: ["RPG", "2010s"]
 weight: 0
 ---
 
@@ -20,7 +20,7 @@ Même si octobre se finit, l'été continue avec le fer de lance de Square Enix 
 - __Date de sortie :__ __[Switch]__ 13/07/2018
 - __Développeur :__ Acquire / Square Enix
 - __Editeur :__ Square Enix / Nintendo
-- __Plateforme :__ Nintendo Switch
+- __Plateforme :__ Switch
 - __Directeur :__ Keisuke Miyauchi
 
 ### __Contexte de jeu__

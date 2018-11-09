@@ -21,7 +21,7 @@ Partant d’un concept simple, les différents opus ont ajouté au fur et à mes
 - __Date de sortie :__ __[JP]__ 20/04/2005 - __[EU]__ 04/11/2005
 - __Développeur :__ Intelligent Systems
 - __Editeur :__ Nintendo
-- __Plateforme :__ Nintendo GameCube
+- __Plateforme :__ GameCube
 - __Directeur :__ Masayuki Horikawa
 
 ---

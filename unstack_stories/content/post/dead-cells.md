@@ -5,7 +5,7 @@ draft: false,
 image: "img/dead_cells/cover.jpg"
 showonlyimage: true
 categories: [ "switch"]
-tags: ["Rogue Lite", "Beat Them All", "Metroidvania", "2010s"]
+tags: ["Rogue Lite", "Beat Them All", "Metroidvania", "Indé" "2010s"]
 weight: 0
 ---
 
@@ -20,7 +20,7 @@ On continue la route des GOTY 2017-2018 avec aujourd'hui le jeu en vogue du stud
 - __Date de sortie :__ 07/08/2018
 - __Développeur :__ Motion Twin
 - __Editeur :__ Motion Twin
-- __Plateforme :__ Nintendo Switch
+- __Plateforme :__ PC, PS4, Switch
 
 ### __Contexte de jeu__
 - __Jeux du même genre déjà faits :__ Aucun.
