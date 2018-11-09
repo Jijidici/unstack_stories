@@ -5,7 +5,7 @@ draft: false,
 image: "img/dead_cells/cover.jpg"
 showonlyimage: true
 categories: [ "switch"]
-tags: ["Rogue Lite", "Beat Them All", "Metroidvania", "Indé" "2010s"]
+tags: ["Rogue Lite", "Beat Them All", "Metroidvania", "Indé", "2010s"]
 weight: 0
 ---
 
