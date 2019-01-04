@@ -12,9 +12,9 @@ tags: ["RPG", "Aventure", "Narratif", "Indé", "2010s"]
 À la fin 2015, il était difficile de ne pas entendre parler d'un ovni, à la fois adulé en tant que perle novatrice, ou conspué comme une lubie pixelo-hipster cracra : Undertale, le rpg narratif de Toby Fox, hommage à l'ambiance loufoque de Earthbound. 2018 nous a offert la possibilité de toucher à la bête sur Switch, et d'essayer de comprendre pourquoi elle a tant marqué le milieu du jeu indépendant. Undertale mérite-t-il tout le bruit qui l'a entouré depuis sa sortie ?
 </p>
 
-//WARNING
+<p class="warning-box">
 Avant de vous parler d'Undertale, je tiens à prévenir ceux qui n'y ont jamais touché que mon expérience de jeu a été énormément influencée par ce que j'avais entendu dire à propos de lui. Undertale est un jeu narratif, pleins de surprises, et si vous souhaitez le découvrir l'esprit vierge d'aprioris, je vous conseille d'arrêter là votre lecture, et de foncer le faire. Je vends un peu la mèche, mais c'est vraiment un jeu marquant et unique. Pour ceux qui resteront, je vais bien sûr essayer de limiter le nombre de spoilers dans ma critique. Et sachez que le fait d'en savoir trop a certes conditionné ma façon de jouer, mais n'a pas empêché de rendre ces sessions de jeu inoubliables. Sur ce, plongeons nous dans le monde souterrain !
-//WARNING
+</p>
 
 ### __Fiche Technique__
 - __Genre :__ Narrative RPG / ?
