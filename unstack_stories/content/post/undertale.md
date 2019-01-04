@@ -1,7 +1,7 @@
 ---
 title: "Undertale"
 date: 2019-01-04T14:15:44+01:00
-draft: true
+draft: false
 image: "img/undertale/cover.jpg"
 showonlyimage: true
 categories: [ "switch"]
