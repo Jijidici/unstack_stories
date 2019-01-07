@@ -5,7 +5,7 @@ draft: false
 image: "img/inside/cover.jpg"
 showonlyimage: true
 categories: [ "switch"]
-tags: ["Puzzle-Plateformer", "Narratif", "Die&Retry", "Indé", "2010s"]
+tags: ["Narrative-Platformer", "Die&Retry", "Indé", "2010s"]
 ---
 
 <p class="grey-box">
@@ -14,7 +14,7 @@ La faute à une Switch envahie par des titres indépendants de qualité, la quê
 </p>
 
 ### __Fiche Technique__
-- __Genre :__ Puzzle-Plateformer / Simulateur de maltraitance d'enfant
+- __Genre :__ Narrative-Platformer / Simulateur de maltraitance d'enfant
 - __Titre original :__ INSIDE
 - __Date de sortie :__ __[Xbox One]__ 29/06/2016 - __[Switch]__ 28/06/2018
 - __Développeur :__ Playdead
