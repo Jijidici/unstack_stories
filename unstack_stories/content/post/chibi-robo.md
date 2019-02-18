@@ -5,7 +5,7 @@ draft: false
 image: "img/chibi_robo/cover.jpg"
 showonlyimage: true
 categories: [ "ngc"]
-tags: ["Aventure", "Platformer", Point&Click", "2000s"]
+tags: ["Aventure", "Platformer", "Point&Click", "2000s"]
 weight: 0
 ---
 
